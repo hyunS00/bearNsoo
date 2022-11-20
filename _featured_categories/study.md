@@ -22,4 +22,4 @@ sitemap: false
 
 # Project
 
-## [모던자바스크립트 Depp Dive](/모던자바스크립트DeepDive)
+## [모던자바스크립트 Depp Dive](/모던자바스크립트deepdive)
