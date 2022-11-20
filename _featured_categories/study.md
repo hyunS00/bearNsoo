@@ -3,7 +3,7 @@
 layout: list
 
 # The title of the tag's page.
-title: study
+title: Study
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: study
@@ -20,6 +20,6 @@ description: >
 sitemap: false
 ---
 
-# Project
+# Study
 
-## [모던자바스크립트 Depp Dive](/모던자바스크립트deepdive)
+# [모던자바스크립트 Depp Dive](/모던자바스크립트deepdive)
