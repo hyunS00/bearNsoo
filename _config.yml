@@ -24,10 +24,10 @@ title: BearN의 빼어난 세상
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description: >
-  무엇을 할지 몰라 이것저것 다해보고 기록하는 개발자 지망생의 기록들
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhyuns00.github.io&count_bg=%233644BA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)
 
 # A shorter description for the sidebar.
-tagline: 안농
+tagline:
 
 # A list of keywords for your blog
 keywords: []

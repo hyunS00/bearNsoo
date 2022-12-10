@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: 윤성우의 열혈 자료구조
+title: Blog
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: 윤성우의열혈자료구조
+slug: blog
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  모던 자바스크립트 Deep Dive 정리
+  내 블로그
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -20,5 +20,10 @@ description: >
 sitemap: false
 ---
 
-📘YES24
-[![yes24](/assets/img/datastruct/main.png)](http://www.yes24.com/Product/Goods/6214396)
+# Blog History
+
+### [Version 1](https://hyuns00.github.io/self/main.html)
+
+### [Version 2](https://hyuns00.github.io/old_hyunS00.github.io/)
+
+### [Version 3 - Current Version](/)

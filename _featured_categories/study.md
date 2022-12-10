@@ -22,4 +22,6 @@ sitemap: false
 
 # Study
 
-# [모던자바스크립트 Depp Dive](/모던자바스크립트deepdive)
+## [모던자바스크립트 Deep Dive](/모던자바스크립트deepdive)
+
+## [윤성우의 열혈자료구조](/윤성우의열혈자료구조)
